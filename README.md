@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Ali</h1>
-<h3 align="center"> Mobile Application deveolper</h3>
+<h3 align="center"> Mobile Application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheerali5&label=Profile%20views&color=0e75b6&style=flat" alt="shaheerali5" /> </p>
 
