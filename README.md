@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Ali</h1>
-<h3 align="center">A passionate Mobile Application deveolper</h3>
+<h3 align="center"> Mobile Application deveolper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheerali5&label=Profile%20views&color=0e75b6&style=flat" alt="shaheerali5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheerali5" alt="shaheerali5" /></a> </p>
 
-- 🔭 I’m currently working on **4-Paws Flutter Project**
+- 🔭 I’m currently Flutter Intern at Apetch Media Peshwar **
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning new Technology in flutter **AI integration in app**
 
-- 💬 Ask me about **Flutter,Dart,AI,Python**
+- 💬 Ask me about **Flutter,Dart,Firebase,API integration**
 
 - 📫 How to reach me **itxshaheer56@gmail.com**
 
