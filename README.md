@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter,Dart,Firebase,API integration**
 
-- 📫 How to reach me **itxshaheer56@gmail.com**
+- 📫 How to reach me **shaheeralidev22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
