@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheerali5" alt="shaheerali5" /></a> </p>
 
-- 🔭 I’m currently Flutter Intern at Apetch Media Peshwar **
+- 🔭 I’m currently APP DEVELOPER at Apetch Media Peshwar **
 
 - 🌱 I’m currently learning new Technology in flutter **AI integration in app**
 
