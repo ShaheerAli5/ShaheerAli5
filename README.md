@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Shaheer Ali
+# Hi , I'm Muhammad Shaheer Ali
 
-### 🚀 Flutter & Mobile Application Developer
+###   Mobile Application Developer
 
 Building high-performance, scalable, and modern cross-platform mobile applications using Flutter.
 
@@ -23,34 +23,33 @@ Building high-performance, scalable, and modern cross-platform mobile applicatio
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-💼 **Mobile Application Developer** at **Aptech Media, Peshawar**
+ **Mobile Application Developer** at **Aptech Media, Peshawar**
 
-📱 Passionate about building beautiful, scalable, and user-friendly mobile applications.
+ Passionate about building beautiful, scalable, and user-friendly mobile applications.
 
-🔥 Experienced in Flutter development with backend integration, Firebase, REST APIs, and AI-powered applications.
+ Experienced in Flutter development with backend integration, Firebase, REST APIs, and AI-powered applications.
 
-🌱 Currently learning
+ Currently learning
 
 - AI Integration in Flutter
 - Clean Architecture
 - Performance Optimization
-- Native Android (Kotlin)
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,python,git,github,vscode,postman,html,css"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,androidstudio,python,git,github,vscode,postman,html,css"/>
 
 </p>
 
 ---
 
-# 💡 Core Skills
+#  Core Skills
 
 - Flutter Development
 - Dart Programming
@@ -68,9 +67,9 @@ Building high-performance, scalable, and modern cross-platform mobile applicatio
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
-### 📱 Mobile Application Developer
+###  Mobile Application Developer
 
 **Aptech Media, Peshawar**
 
@@ -87,21 +86,21 @@ Worked on:
 
 ---
 
-# 🚀 Currently Working On
+#  Currently Working On
 
-✅ WhatsApp Marketing Mobile App
+ WhatsApp Marketing Mobile App
 
-✅ AI Integration in Flutter
+ AI Integration in Flutter
 
-✅ Firebase Applications
+ Firebase Applications
 
-✅ Advanced UI/UX
+ Advanced UI/UX
 
-✅ REST API Based Projects
+ REST API Based Projects
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -113,17 +112,17 @@ Worked on:
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shaheerali5&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shaheerali5&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -133,7 +132,7 @@ Worked on:
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -143,7 +142,7 @@ Worked on:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 | Category | Technologies |
 |----------|--------------|
@@ -157,27 +156,27 @@ Worked on:
 
 ---
 
-# 🎯 What I Build
+# What I Build
 
-📱 Mobile Applications
+ Mobile Applications
 
-🤖 AI Powered Apps
+ AI Powered Apps
 
-💬 WhatsApp Marketing Applications
+ WhatsApp Marketing Applications
 
-🛒 E-Commerce Apps
+ E-Commerce Apps
 
-🏢 CRM Systems
+ CRM Systems
 
-🔥 Firebase Applications
+ Firebase Applications
 
-🌐 REST API Integrated Apps
+ REST API Integrated Apps
 
-📊 Business Applications
+ Business Applications
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -199,7 +198,7 @@ Worked on:
 
 <div align="center">
 
-## 💬 Favorite Quote
+##  Favorite Quote
 
 *"First, solve the problem. Then, write the code."*
 
