@@ -86,23 +86,8 @@ Worked on:
 
 ---
 
-#  Currently Working On
-
- WhatsApp Marketing Mobile App
-
- AI Integration in Flutter
-
- Firebase Applications
-
- Advanced UI/UX
-
- REST API Based Projects
-
----
 
 
-
----
 
 #  Contribution Graph
 
